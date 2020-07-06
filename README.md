@@ -168,12 +168,16 @@ Retrofit.Builder()
 ```
 
 
+
 ### Links of files are given here
 
 [MyKotlinJsonAdapter](https://github.com/uchhabra3/Moshi-Issue-843-Solution/blob/master/MyKotlinJsonAdapter.kt)
 
 [MyStandardJsonAdapters](https://github.com/uchhabra3/Moshi-Issue-843-Solution/blob/master/MyStandardJsonAdapters.java)
 
+**Test Cases**
+
+[MyKotlinJsonAdapterTest](https://github.com/uchhabra3/Moshi-Issue-843-Solution/blob/master/MyKotlinJsonAdapterTest.kt)
 
 
 
