@@ -17,7 +17,7 @@ val moshi = Moshi.Builder()
     .build()
 ```
 
-### Made a copy of ```KotlinJsonAdapter``` -> ```MyKotlinJsonAdapter```**
+### Made a copy of ```KotlinJsonAdapter``` -> ```MyKotlinJsonAdapter```
 
 [MyKotlinJsonAdapter](https://github.com/uchhabra3/Moshi-Issue-843-Solution/blob/master/MyKotlinJsonAdapter)
 
@@ -90,7 +90,7 @@ val moshi = Moshi.Builder()
 
 
 
-### Made a copy of ```StandardJsonAdapters``` -> ```MyStandardJsonAdapters```**
+### Made a copy of ```StandardJsonAdapters``` -> ```MyStandardJsonAdapters```
 
 [MyStandardJsonAdapters](https://github.com/uchhabra3/Moshi-Issue-843-Solution/blob/master/MyStandardJsonAdapters)
 
