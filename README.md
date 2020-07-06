@@ -32,7 +32,7 @@ val moshi = Moshi.Builder()
 //            }
 ```
 
-**Rename ```KotlinJsonAdapterFactory``` -> ```MyKotlinJsonAdapterFactory``` 
+**Renamed ```KotlinJsonAdapterFactory``` -> ```MyKotlinJsonAdapterFactory```** 
 
 **Made changes in IndexedParameterMap that is responsible for adding default values if value is ABSENT in JSON**
 **Treated null values same as ABSENT_VALUE**
@@ -89,9 +89,9 @@ val moshi = Moshi.Builder()
 
 
 
-**Made a copy of ```StandardJsonAdapters``` -> ```MyStandardJsonAdapters```
+**Made a copy of ```StandardJsonAdapters``` -> ```MyStandardJsonAdapters```**
 
-**Made changes by making adapters null-safe
+**Made changes by making adapters null-safe**
 
 **Before**
 
