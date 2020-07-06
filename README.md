@@ -19,6 +19,7 @@ val moshi = Moshi.Builder()
 
 **Made a copy of ```KotlinJsonAdapter``` -> ```MyKotlinJsonAdapter```**
 
+[MyKotlinJsonAdapter](https://github.com/uchhabra3/Moshi-Issue-843-Solution/blob/master/MyKotlinJsonAdapter)
 
 **Commented code where it checks if null values are present in JSON for non-null Properties**
 
@@ -90,6 +91,8 @@ val moshi = Moshi.Builder()
 
 
 **Made a copy of ```StandardJsonAdapters``` -> ```MyStandardJsonAdapters```**
+
+[MyStandardJsonAdapters](https://github.com/uchhabra3/Moshi-Issue-843-Solution/blob/master/MyStandardJsonAdapters)
 
 **Made changes by making adapters null-safe**
 
@@ -167,8 +170,9 @@ Retrofit.Builder()
 
 ### Links of files are given here
 
-**[MyKotlinJsonAdapter](https://github.com/uchhabra3/Moshi-Issue-843-Solution/blob/master/MyKotlinJsonAdapter)
-**[MyStandardJsonAdapters](https://github.com/uchhabra3/Moshi-Issue-843-Solution/blob/master/MyStandardJsonAdapters)
+[MyKotlinJsonAdapter](https://github.com/uchhabra3/Moshi-Issue-843-Solution/blob/master/MyKotlinJsonAdapter)
+
+[MyStandardJsonAdapters](https://github.com/uchhabra3/Moshi-Issue-843-Solution/blob/master/MyStandardJsonAdapters)
 
 
 
