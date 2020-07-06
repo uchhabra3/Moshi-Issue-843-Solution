@@ -1,7 +1,7 @@
 
 These files used are to change behavior of Moshi, Issue #843(Ignore null value and use the default value when deserializing from json string)
 
-### Issue was discussed here
+## Issue was discussed here
 https://github.com/square/moshi/issues/843
 
 Moshi is a great JSON library for Kotlin. It understands Kotlin’s non-nullable types and default parameter values. When you use Kotlin with Moshi you may use reflection, codegen, or both.
@@ -17,7 +17,7 @@ val moshi = Moshi.Builder()
     .build()
 ```
 
-**Made a copy of ```KotlinJsonAdapter``` -> ```MyKotlinJsonAdapter```**
+### Made a copy of ```KotlinJsonAdapter``` -> ```MyKotlinJsonAdapter```**
 
 [MyKotlinJsonAdapter](https://github.com/uchhabra3/Moshi-Issue-843-Solution/blob/master/MyKotlinJsonAdapter)
 
@@ -90,7 +90,7 @@ val moshi = Moshi.Builder()
 
 
 
-**Made a copy of ```StandardJsonAdapters``` -> ```MyStandardJsonAdapters```**
+### Made a copy of ```StandardJsonAdapters``` -> ```MyStandardJsonAdapters```**
 
 [MyStandardJsonAdapters](https://github.com/uchhabra3/Moshi-Issue-843-Solution/blob/master/MyStandardJsonAdapters)
 
